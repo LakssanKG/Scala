@@ -10434,3 +10434,18 @@ SEVERE: A severe compiler error occurred, full details of the error can be found
 2025.04.10 18:01:54 INFO  shutting down Metals
 2025.04.10 18:01:54 INFO  Shut down connection with build server.
 2025.04.10 18:01:54 INFO  Exiting server
+2025.05.23 09:58:39 INFO  Started: Metals version 1.5.3 in folders 'C:\Users\K.G.LAKSSAN\OneDrive\Documents\Scala' for client Visual Studio Code 1.99.3.
+2025.05.23 09:58:43 INFO  Attempting to connect to the build server...
+2025.05.23 09:58:43 INFO  Running BSP server List(C:\Users\K.G.LAKSSAN\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\K.G.LAKSSAN\OneDrive\Documents\Scala\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\K.G.LAKSSAN\OneDrive\Documents\Scala\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\K.G.LAKSSAN\OneDrive\Documents\Scala\.scala-build\ide-envs.json, C:\Users\K.G.LAKSSAN\OneDrive\Documents\Scala)
+2025.05.23 09:58:51 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\K.G.LAKSSAN\OneDrive\Documents\Scala\.metals\bsp.trace.json or C:\Users\K.G.LAKSSAN\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.05.23 09:58:56 INFO  BSP server: Starting compilation server
+2025.05.23 09:59:05 INFO  time: Connected to build server in 21s
+2025.05.23 09:59:05 INFO  Connected to Build server: scala-cli v1.7.1
+2025.05.23 09:59:05 INFO  time: Imported build in 0.58s
+2025.05.23 09:59:08 INFO  compiling scala_e6121ade30 (36 scala sources)
+2025.05.23 09:59:21 INFO  time: indexed workspace in 15s
+2025.05.23 09:59:22 INFO  time: compiled Scala_e6121ade30 in 14s
+2025.05.23 09:59:23 INFO  compiling scala_e6121ade30 (36 scala sources)
+2025.05.23 09:59:26 INFO  time: compiled Scala_e6121ade30 in 3.11s
+2025.05.23 09:59:29 INFO  compiling scala_e6121ade30 (36 scala sources)
+2025.05.23 09:59:32 INFO  time: compiled Scala_e6121ade30 in 3.41s
