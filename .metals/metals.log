@@ -10449,3 +10449,9 @@ SEVERE: A severe compiler error occurred, full details of the error can be found
 2025.05.23 09:59:26 INFO  time: compiled Scala_e6121ade30 in 3.11s
 2025.05.23 09:59:29 INFO  compiling scala_e6121ade30 (36 scala sources)
 2025.05.23 09:59:32 INFO  time: compiled Scala_e6121ade30 in 3.41s
+May 23, 2025 10:06:55 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2025.05.23 10:14:40 INFO  Shutting down server
+2025.05.23 10:14:40 INFO  shutting down Metals
+2025.05.23 10:14:40 INFO  Shut down connection with build server.
+2025.05.23 10:14:40 INFO  Exiting server
